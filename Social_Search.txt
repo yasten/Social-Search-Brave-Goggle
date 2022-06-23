@@ -1,0 +1,26 @@
+! name: Social Search
+! description: Boosts social media results, allowing you to search primarily for an entity or trend on social media 
+! author:  YasTen
+! issues: github.com/yasten/Social-Search-Brave-Goggle
+
+! public: true
+
+
+$boost=4,site=github.io
+$boost=4,site=mewe.com
+$boost=4,site=linkedin.com
+$boost=4,site=tumblr.com
+$boost=4,site=reddit.com
+$boost=4,site=youtube.com
+$boost=4,site=twitter.com
+$boost=4,site=instagram.com
+$boost=4,site=facebook.com
+$boost=4,site=tiktok.com
+$boost=4,site=plus.google.com
+$boost=4,site=pinterest.com
+
+
+$boost=3,site=clubhouse.com
+$boost=3,site=yubo.live
+$boost=3,site=triller.co
+$boost=3,site=medium

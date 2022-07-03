@@ -3,6 +3,7 @@
 ! public: true
 ! author: YasTen
 ! avatar: #fc8d1e
+! issues: github.com/yasten/Social-Search-Brave-Goggle
 
 $site=github.io,boost=4
 $site=mewe.com,boost=4
